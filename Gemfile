@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.16'
 gem 'devise'
-
+gem 'stock_quote'
 
 gem 'twitter-bootstrap-rails'
 
